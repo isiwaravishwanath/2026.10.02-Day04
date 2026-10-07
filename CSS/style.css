@@ -5,3 +5,15 @@
 .even{
     background-color: brown;
 }
+
+.alignment{
+    text-align: center;
+}
+
+#title{
+    background-color: aqua;
+}
+
+*{
+    background-color: black;
+}
